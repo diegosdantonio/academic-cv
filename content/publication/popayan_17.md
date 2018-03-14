@@ -32,7 +32,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = [""]
+projects = ["IoT"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-70187-5_18"

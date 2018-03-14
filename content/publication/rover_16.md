@@ -32,10 +32,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = [""]
+projects = ["RoboticsAndControl"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://www.eafit.edu.co/minisitios/clca-eafit/SiteAssets/Paginas/default/Conference%20Proceedings%20of%20XVII%20LATIN%20AMERICAN%20CONFERENCE%20IN%20AUTOMATIC%20CONTROL.pdf"
 url_preprint = ""
 url_code = "https://github.com/JuanDValenciano/Rover_Unibague"
 url_dataset = ""

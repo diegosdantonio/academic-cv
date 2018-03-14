@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = [""]
+projects = ["IoT"]
 
 # Links (optional).
 url_pdf = "https://search.proquest.com/openview/26742f31cf3570fbfc1c80f3113e0689/1?pq-origsite=gscholar&cbl=52938"

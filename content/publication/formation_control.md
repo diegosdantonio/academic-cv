@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = [""]
+projects = ["RoboticsAndControl"]
 
 # Links (optional).
 url_pdf = "http://uamt.fei.stuba.sk/web/sites/subory/intranet/dokumentacia_konferencii/ifac2014/media/files/1660.pdf"
