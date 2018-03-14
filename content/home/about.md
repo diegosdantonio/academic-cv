@@ -11,30 +11,25 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Automatic Control",
+    "Perception Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Science in Automatic Control"
+  institution = "Universidad de Ibagué - Universiteit Gent"
+  year = "2012-2014"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Electronic Engineer"
+  institution = "Universidad de Ibagué "
+  year = "2006-2011 (Five years program)"
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi!;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+ I am a professor of Digital Systems at Unibague Labs, my current work revolves around smart systems technologies (Teaching and Research). It involves developing methods to understand the environment information (Instrumentation and Perception), remote monitoring (IoT), mathematical processes description (Modeling and Parameter Estimation) and execution of automatic tasks (Control). I am interested in developing of new age technologies perception systems and automatic scene understanding for intelligent  mobile robot applications.
