@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-115748843-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "harold.murcia@unibague.edu.co"
+    link = "mailto:harold.murcia@unibague.edu.co?subject=Website!"
 
   [[params.social]]
     icon = ""
@@ -256,27 +256,27 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 3
+
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

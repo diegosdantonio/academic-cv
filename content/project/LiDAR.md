@@ -13,7 +13,7 @@ image_preview = "lidar.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["LiDAR", "Point Cloud", "Perception", "Machine-Learning"]
+tags = ["LiDAR", "ROS", "Perception", "Machine-Learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -26,7 +26,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "minnie.jpg"
-caption = ""
+caption = "GitHup Repository"
 
 +++
 

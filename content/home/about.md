@@ -28,7 +28,7 @@ weight = 5
 
 +++
 
-# Biography
+## **ABOUT ME**
 
 Hi!;
 
