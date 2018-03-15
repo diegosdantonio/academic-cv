@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -27,3 +27,18 @@ weight = 60
 
 ## [MASTER OF SCIENCE IN  CONTROL ENGINEERING](https://posgrados.unibague.edu.co/index.php/maestria-ingenieria-de-control-industria)
 * Industrial Instrumentation
+
+
+## **TOOLS**
+
+[YouTube](https://www.youtube.com/channel/UCLbLx165yFqnZC-rptUWCng/featured?disable_polymer=true)
+|
+[ClassRoom](https://classroom.google.com/?emr=0)
+|
+[Socrative](https://www.socrative.com): Room EAZLETMV
+|
+[Kahoot](https://kahoot.it)
+|
+[Asana](https://app.asana.com/)
+|
+[Mendeley](https://www.mendeley.com)

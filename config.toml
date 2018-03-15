@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:harold.murcia@unibague.edu.co?subject=Website!"
+    link = "mailto:harold.murcia@unibague.edu.co?subject= "
 
   [[params.social]]
     icon = ""
