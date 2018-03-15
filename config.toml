@@ -61,17 +61,18 @@ defaultContentLanguageInSubdir = false
   avatar = "harold.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "harold.murcia@unibague.edu.co"
   address = "Edificio de Ingeniería, Universidad de Ibagué - Carrera 22 Calle 67 B/Ambalá, Colombia"
-  office_hours = "Friday 14:00 to 18:00 or email for appointment"
+  office_hours = ""
   phone = "+57(8)270 9444  EXT:268"
   skype = "harold_murcia"
   telegram = ""
+
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+     discussion = { name = "Office hours: schedule an appointment", url = "https://calendly.com/harold-murcia" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
