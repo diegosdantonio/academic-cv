@@ -26,7 +26,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "minnie.jpg"
-caption = "GitHup Repository"
+caption = "GitHub Repository"
 
 +++
 
