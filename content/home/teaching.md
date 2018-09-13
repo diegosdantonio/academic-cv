@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-![image](https://360grados.unibague.edu.co/img/logo.png.pagespeed.ce.XVV7CROa1B.png)
+![image](https://avaconews.unibague.edu.co/wp-content/uploads/2013/05/xLogoUnibague1.jpg.pagespeed.ic.k-vFSKUW0u.jpg)
 
 
 # [UNIVERSIDAD DE IBAGUÉ](https://www.unibague.edu.co)
