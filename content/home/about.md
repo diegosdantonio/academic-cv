@@ -30,6 +30,4 @@ weight = 5
 
 ## **ABOUT ME**
 
-Hi!;
-
- I am a professor of Digital Systems at Unibague Labs, my current work revolves around smart systems technologies (Teaching and Research). It involves developing methods to understand the environment information (Instrumentation and Perception), remote monitoring (IoT), mathematical processes description (Modeling and Parameter Estimation) and execution of automatic tasks (Control). I am interested in developing of new age technologies perception systems and automatic scene understanding for intelligent  mobile robot applications.
+ I am a professor of Digital Systems at Unibague Labs, my current work revolves around smart systems technologies (Teaching and Research). It involves developing methods to understand the environmental information (Instrumentation and Perception), remote monitoring (IoT), mathematical processes description (Modeling and Parameter Estimation) and execution of automatic tasks (Control). I am interested in developing new age technologies perception systems and automatic scenes understanding the intelligent  mobile robot applications.
